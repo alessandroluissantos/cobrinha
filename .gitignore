@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Builds de produção
+build/
+dist/
+coverage/
+
+# Arquivos de ambiente
+.env*
+!.env.example
+
+# Vercel e caches locais
+.vercel/
+.vite/
+
+# Sistema operacional e logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*

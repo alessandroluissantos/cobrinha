@@ -1,0 +1,6 @@
+{
+  "name": "Cobrinha — Desafio Progressivo",
+  "description": "Jogo clássico da Cobrinha (Snake) com 6 níveis progressivos, controles por teclado e toque, e ranking persistente no navegador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
